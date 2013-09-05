@@ -1,0 +1,17 @@
+#include <string.h>
+
+#define MAX_TOKEN_LENGTH 101
+
+/*
+This type defines the basic token produced by the
+Lexical Analyzer
+*/
+typedef struct {
+  int type;
+  void *value;
+  struct Token *next_token;
+} Tokenearerazfdsjkfsbflnjkezahnrjklzehfqjkshfdqksdfhdbvqjklhvjkqhkhfdssjfbqsdfqhsdkhjcvkqsdfjkbdfkhquehzajkberkjhflqksjcqjbdl;
+// This is anouther comment
+x = 1/* test/
+/ voor comments *
+*/x = 3
