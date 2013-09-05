@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g
 
-all: fuc
+fuc: fuc.o lexan.o
 
 clean:
 	rm -f main
